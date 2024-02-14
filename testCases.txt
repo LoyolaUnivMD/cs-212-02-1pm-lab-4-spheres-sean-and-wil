@@ -1,1 +1,10 @@
-Test Cases go here.
+Testing of overlap:
+
+Case 1:
+    Sun and Earth overlap: TRUE
+
+Case 2:
+    Sun and Planetx overlap: TRUE
+
+Case 3:
+    Planetx and earth overlap: FALSE

@@ -1,1 +1,27 @@
- Design goes here
+Private variables in sphere:
+    double radius
+    double x
+    double y
+    double z
+
+Default Constructor (void, no params)
+
+Constructor (void, parameters: r, x, y, z (all double))
+
+Calc surface area (double, no params)
+
+Calc volume (double, no params)
+
+Calc distance from center (double, parameters: x, y, z (all double))
+
+Check if spheres intersect (boolean, parameters sphere object sphere2)
+
+Main class:
+    create 3 sphere objects with x,y,z and radius
+
+    print out each one of the objects surface area using get Surface area method
+
+    print out each one of the objects vloumes using get volume method
+
+    use if statments calling the overlap method to see if they overlap
+
